@@ -1,5 +1,0 @@
-com\duoc\msgestion\repository\ProductoRepository.class
-com\duoc\msgestion\model\Producto.class
-com\duoc\msgestion\MsGestionApplication.class
-com\duoc\msgestion\controller\ProductoController.class
-com\duoc\msgestion\service\ProductoService.class
